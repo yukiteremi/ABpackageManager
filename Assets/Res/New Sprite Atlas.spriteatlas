@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 028840722a4ef6f4daba70624b5672f6, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b7cbc0827282cf544b34453f6e218f70, type: 3}
+  - {fileID: 21300000, guid: 7754d7e32e24cc044a9314b58fe64801, type: 3}
+  - {fileID: 21300000, guid: 60491854e4684824fb82ad96a9344286, type: 3}
+  - {fileID: 21300000, guid: 7430fa5656ccde644829d1a185e04db7, type: 3}
+  - {fileID: 21300000, guid: 478ba217c898a0c4d86e0d8a8b80cb7a, type: 3}
+  - {fileID: 21300000, guid: d41208a70fd73464a9a953fc9c7ee8e3, type: 3}
+  - {fileID: 21300000, guid: 0c4c77a9563653e438d1a49613eeb844, type: 3}
+  - {fileID: 21300000, guid: 134e31aa2e5bdc540b581468e7b84c81, type: 3}
+  - {fileID: 21300000, guid: 47d638ecd60968844a9c6fe8caa36be9, type: 3}
+  - {fileID: 21300000, guid: 28bac7be44b5ef0488fb3f17a8fdfee6, type: 3}
+  - {fileID: 21300000, guid: d0b6aabefddc4994091f253c0aae2d26, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fight1008
+  - fight1003
+  - fight1005
+  - fight10010
+  - fight1001
+  - fight1006
+  - fight1004
+  - fight1009
+  - fight1007
+  - diamond_01
+  - fight1002
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

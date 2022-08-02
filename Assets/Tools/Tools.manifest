@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 764074415
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube.u3d
+      Dependencies: {}
+    Info_1:
+      Name: mat.u3d
+      Dependencies: {}
+    Info_2:
+      Name: new material.u3d
+      Dependencies: {}
+    Info_3:
+      Name: new sprite atlas.u3d
+      Dependencies: {}

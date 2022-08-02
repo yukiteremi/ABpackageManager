@@ -1,0 +1,42 @@
+[
+  {
+    "path": "fight1001",
+    "name": "玩家1"
+  },
+  {
+    "path": "fight1002",
+    "name": "玩家2"
+  },
+  {
+    "path": "fight1003",
+    "name": "玩家3"
+  },
+  {
+    "path": "fight1004",
+    "name": "玩家4"
+  },
+  {
+    "path": "fight1005",
+    "name": "玩家5"
+  },
+  {
+    "path": "fight1006",
+    "name": "玩家6"
+  },
+  {
+    "path": "fight1007",
+    "name": "玩家7"
+  },
+  {
+    "path": "fight1008",
+    "name": "玩家8"
+  },
+  {
+    "path": "fight1009",
+    "name": "玩家9"
+  },
+  {
+    "path": "fight10010",
+    "name": "玩家10"
+  }
+]
